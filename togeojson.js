@@ -24,6 +24,27 @@ var toGeoJSON = (function() {
         for (var j = 0, o = []; j < x.length; j++) { o[j] = parseFloat(x[j]); }
         return o;
     }
+
+    function populate(parent, node) {
+      if (!(node && node.childNodes && node.childNodes.length > 0)) {
+        parent = node.nodeValue;
+        return;
+      }
+      var name = node.localName;
+      name = name.charAt(0).toLowerCase() + name.slice(1);
+      parent[name] = parent[name] || {};
+      for (var i = 0; i < node.childNodes.length; i ++) {
+        var child = node.childNodes[i];
+        if (child && child.childNodes && child.childNodes.length > 0) {
+          populate(parent[name], child);
+        } else if (child && node.childNodes.length == 1) {
+          if (child.data) {
+            parent[name] = child.nodeValue;
+          }
+        }
+      }
+    }
+
     function clean(x) {
         var o = {};
         for (var i in x) { if (x[i]) { o[i] = x[i]; } }
@@ -204,10 +225,14 @@ var toGeoJSON = (function() {
                     extendedData = get1(root, 'ExtendedData'),
                     lineStyle = get1(root, 'LineStyle'),
                     polyStyle = get1(root, 'PolyStyle'),
-                    visibility = get1(root, 'visibility');
+                    visibility = get1(root, 'visibility'),
+                    style = {};
 
+                populate(style, get(root, 'Style')[0]);
+                style = style.style;
                 if (!geomsAndTimes.geoms.length) return [];
                 if (name) properties.name = name;
+                if (style) properties.style = style;
                 if (styleUrl) {
                     if (styleUrl[0] !== '#') {
                         styleUrl = '#' + styleUrl;

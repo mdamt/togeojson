@@ -1,0 +1,2565 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.61556,
+                    -2.9125
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.1",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/indosat.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">1.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11PLG028</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">AIR BATU</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.61556</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.9125</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">PT. INDOSAT. Tbk</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.1"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.22833,
+                    -2.84889
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.2",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/indosat.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">2.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11BNS005</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">BETUNG</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.22833</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.84889</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">PT. INDOSAT. Tbk</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.2"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.74028,
+                    -2.80278
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.3",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/indosat.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">3.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11PLG002</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">GASING</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.74028</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.80278</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">PT. INDOSAT. Tbk</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.3"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.7725,
+                    -2.89306
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.4",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/indosat.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">4.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11PLG038</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">KENTEN LAUT</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.7725</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.89306</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">PT. INDOSAT. Tbk</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.4"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.86111,
+                    -3.05889
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.5",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/indosat.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">5.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11BNS042</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">LINGKIS</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.86111</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-3.05889</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">PT. INDOSAT. Tbk</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.5"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.26724,
+                    -2.85063
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.6",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/indosat.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">6.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11BNS043</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">LUBUK KARET</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.26724</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.85063</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">PT. INDOSAT. Tbk</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.6"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.34024,
+                    -2.85722
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.7",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/indosat.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">7.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11BNS010</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">LUBUK LANCANG</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.34024</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.85722</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">PT. INDOSAT. Tbk</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.7"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.575,
+                    -2.85721
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.8",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/indosat.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">8.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11BNS050</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">LUBUK SAUNG</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.575</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.85721</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">PT. INDOSAT. Tbk</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.8"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.97528,
+                    -2.93472
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.9",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/indosat.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">9.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11BNS040</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">MAINAN</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.97528</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.93472</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">PT. INDOSAT. Tbk</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.9"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.85694,
+                    -2.48583
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.10",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/indosat.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">10.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11BNS007</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">MAKARTI JAYA</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.85694</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.48583</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">PT. INDOSAT. Tbk</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.10"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.12611,
+                    -2.9275
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.11",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/indosat.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">11.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11BNS039</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">MERAH MATA</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">105.12611</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.9275</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">PT. INDOSAT. Tbk</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.11"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.07161,
+                    -2.67306
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.12",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/indosat.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">12.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11BNS008</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">MUARA PADANG</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">105.07161</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.67306</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">PT. INDOSAT. Tbk</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.12"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.00028,
+                    -2.6985
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.13",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/indosat.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">13.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11BNS051</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">MUARA PADANG SELATAN / MUARA PDG SLT</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">105.00028</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.6985</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">PT. INDOSAT. Tbk</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.13"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.39528,
+                    -2.9225
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.14",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/indosat.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">14.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11BNS027</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">PAL</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.39528</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.9225</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">PT. INDOSAT. Tbk</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.14"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.46306,
+                    -2.89
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.15",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/indosat.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">15.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11BNS004</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">PANGKALAN BALAI</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.46306</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.89</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">PT. INDOSAT. Tbk</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.15"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.87833,
+                    -2.92444
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.16",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/indosat.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">16.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11BNS011</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">PANGKALAN PANJI</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.87833</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.92444</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">PT. INDOSAT. Tbk</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.16"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.55722,
+                    -2.96472
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.17",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/indosat.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">17.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11BNS001</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">PT SAP / MARIANA</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.55722</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.96472</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">PT. INDOSAT. Tbk</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.17"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.19224,
+                    -3.11972
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.18",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/indosat.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">18.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11BNS034</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">PULAU RIMAU</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.19224</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-3.11972</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">PT. INDOSAT. Tbk</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.18"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.39111,
+                    -2.8084
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.19",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/indosat.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">19.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11BNS009</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">RAMBA EXPANSI / SPN BETUNG</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.39111</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.8084</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">PT. INDOSAT. Tbk</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.19"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.53917,
+                    -2.82778
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.20",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/indosat.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">20.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11BNS006</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">RIMBA TERAP</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.53917</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.82778</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">PT. INDOSAT. Tbk</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.20"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.06694,
+                    -2.92278
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.21",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/indosat.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">21.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11BNS002</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">SEMBAWA</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">105.06694</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.92278</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">PT. INDOSAT. Tbk</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.21"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.06694,
+                    -3.4
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.22",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/indosat.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">22.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11OGT045</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">SIDO MAKMUR / UP TRANSMIGRASI CINTA MANIS</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">105.06694</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-3.4</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">PT. INDOSAT. Tbk</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.22"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.91028,
+                    -3.13056
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.23",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/indosat.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">23.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11BNS031</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">SIMPANG PAMPANGAN</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.91028</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-3.13056</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">PT. INDOSAT. Tbk</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.23"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.65111,
+                    -2.91611
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.24",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/indosat.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">24.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11BNS044</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">SUKAJADI</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.65111</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.91611</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">PT. INDOSAT. Tbk</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.24"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.89722,
+                    -2.36333
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.25",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/indosat.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">25.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11BNS003</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">SUNGSANG</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.89722</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.36333</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">PT. INDOSAT. Tbk</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.25"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.89103,
+                    -2.94681
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.26",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">1.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">DA72</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">PERAJIN</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.89103</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.94681</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.26"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.26208,
+                    -2.93267
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.27",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">2.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">DA76</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">TAJAMULYA PHILIP</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.26208</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.93267</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.27"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.12783,
+                    -2.67056
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.28",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">3.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">DF38</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">MUARA PADANG MUBA</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.12783</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.67056</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.28"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.82494,
+                    -2.46103
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.29",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">4.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">DF13</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">TELUK PAYO MUDA</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.82494</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.46103</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.29"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.46642,
+                    -2.61111
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.30",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">5.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">DF04</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">RUKUN MAKMUR PULORING</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.46642</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.61111</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.30"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.44183,
+                    -2.84975
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.31",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">6.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">DA50</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">TANJUNG MENANG</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.44183</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.84975</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.31"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.86222,
+                    -2.05742
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.32",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">7.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">D191</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">SUNGAI DUA</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.86222</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.05742</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.32"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.32903,
+                    -3.05742
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.33",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">8.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">D148</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">PULO RIMO</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.32903</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-3.05742</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.33"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.35822,
+                    -2.65728
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.34",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">9.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">D147</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">TANJUNG LAUT</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.35822</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.65728</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.34"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.4695,
+                    -2.79311
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.35",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">10.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">D146</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">PANGKALAN PANJI</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.4695</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.79311</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.35"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.055,
+                    -2.92444
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.36",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">11.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">4143</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">SEBOKOR BANYUASIN</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.055</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.92444</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.36"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.97239,
+                    -2.90697
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.37",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">12.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">D112</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">MAKARTI JAYA</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.97239</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.90697</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.37"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.53858,
+                    -2.48436
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.38",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">13.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">4131</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">SEMBAWA</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.53858</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.48436</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.38"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.26497,
+                    -2.92306
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.39",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">14.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">227A848</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">LUBUK KARET</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.26497</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.92306</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.39"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.65292,
+                    -2.85083
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.40",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">15.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">227A848</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">PANGKALAN BENTENG</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.65292</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.85083</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.40"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.17061,
+                    -2.91119
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.41",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">16.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">2271868</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">PALDAS</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.17061</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.91119</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.41"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.52019,
+                    -2.97653
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.42",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">17.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">DF99</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">KELAPA 2 PENUGUAN</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.52019</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.97653</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.42"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.77233,
+                    -2.89338
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.43",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">19.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">4179</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">KENTEN LAUT</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.77233</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.89338</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.43"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.86294,
+                    -2.89886
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.44",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">20.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">DF32</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">MERAH MATA MUBA</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.86294</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.89886</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.44"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.79194,
+                    -2.91881
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.45",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">21.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">4660</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">KARANG ANYAR</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.79194</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.91881</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.45"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.84686,
+                    -2.55436
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.46",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">22.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">4195</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">SEI REBO</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.84686</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.55436</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.46"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.79003,
+                    -3.00275
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.47",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">23.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">4184</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">OPI JAKABARING</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.79003</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-3.00275</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.47"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.19492,
+                    -3.04906
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.48",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">24.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">4140</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">SRI KEMBANG</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.19492</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-3.04906</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.48"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.60689,
+                    -2.80803
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.49",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">25.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">4132</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">SUNGAI RENGIT</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.60689</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.80803</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.49"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.339,
+                    -2.87864
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.50",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">26.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">4130</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">LUBUK LANCANG</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.339</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.87864</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.50"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.70836,
+                    -2.85656
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.51",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">27.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">DF12</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">TANJUNG LAGO MUBA</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.70836</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.85656</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.51"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.91464,
+                    -2.72961
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.52",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">28.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">4665</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">SUNGSANG</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.91464</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.72961</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.52"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.61581,
+                    -2.32133
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.53",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">29.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">4642</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">SUKOMORO</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.61581</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.32133</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.53"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.39061,
+                    -2.91247
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.54",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">30.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">4640</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">PANGKALAN BALAI</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.39061</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.91247</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.54"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.22219,
+                    -2.88953
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.55",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">31.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">4639</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">BETUNG SEKAYU</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.22219</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.88953</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.55"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.86306,
+                    -2.83953
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.56",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">32.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">4634</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">MARINA</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.86306</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.83953</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.56"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.89753,
+                    -2.98458
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.57",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">33.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">D113</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">MUARA TELANG</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.89753</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.98458</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.57"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.95,
+                    -2.67436
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.58",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">34.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">D110</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">TENGGIRIK</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.95</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.67436</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.58"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.82486,
+                    -2.83122
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.59",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">35.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">D109</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">MUARA TELANG</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.82486</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.83122</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.59"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.95878,
+                    -2.51919
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.60",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">36.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">D108</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">UPANG</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.95878</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.51919</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.60"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.3015,
+                    -2.71875
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.61",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">37.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">4197</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">TEBING ABANG</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.3015</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.71875</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.61"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.81208,
+                    -2.97761
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.62",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">38.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">4194</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">SIMPANG 4 JAKABARING</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.81208</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.97761</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.62"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.00186,
+                    -3.05933
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.63",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">39.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">4142</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">CINTA MANIS</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">105.00186</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-3.05933</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.63"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.73761,
+                    -2.92572
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.64",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">40.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">4141</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">GASING</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.73761</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.92572</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.64"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.91092,
+                    -2.80353
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.65",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">41.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">4129</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">RAMBUTAN</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.91092</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.80353</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.65"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.51519,
+                    -2.43825
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.66",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">42.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">227B352</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">RINGIN HARJO</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.51519</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.43825</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.66"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.96081,
+                    -3.08558
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.67",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">43.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">227B715</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">DUREN GADIN BANYUASIN</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.96081</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-3.08558</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.67"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.90106,
+                    -2.7215
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.68",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">44.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">227B538</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">JALUR 10</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.90106</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.7215</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.68"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.00011,
+                    -2.62811
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.69",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">45.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">227A899</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">AIR SALEH BANYUASIN</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.00011</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.62811</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.69"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.74767,
+                    -2.67961
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.70",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/xl.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">46.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">227B714</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">SUKA DAMAI TANJUNG LAGO</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.74767</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.67961</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">XL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.70"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.13825,
+                    -2.41044
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.71",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/daya_mitra.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">1.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11150181704</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">BENTAYAN</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.13825</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.41044</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">DAYAMITRA</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.71"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.10961,
+                    -2.59147
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.72",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/daya_mitra.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">2.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11150181227</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">DAYA UTAMA</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">105.10961</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.59147</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">DAYAMITRA</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.72"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.86819,
+                    -3.07056
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.73",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/daya_mitra.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">3.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11150382449</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">SAKO RAMBUTAN</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.86819</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-3.07056</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">DAYAMITRA</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.73"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.21839,
+                    -2.82026
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.74",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/daya_mitra.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">4.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11150382435</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">BETUNG III/MODCO TABUAN</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.21839</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.82026</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">DAYAMITRA</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.74"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.65773,
+                    -2.87328
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.75",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/daya_mitra.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">5.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11150784854</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">PANGKALAN BENTENG</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.65773</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.87328</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">DAYAMITRA</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.75"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.42893,
+                    -2.92153
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.76",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/daya_mitra.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">6.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11150784856</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">KAYU ARA KUNING</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.42893</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.92153</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">DAYAMITRA</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.76"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.16419,
+                    -2.53967
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.77",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/daya_mitra.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">7.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11150784926</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">PONDOK ASALAM 1</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.16419</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.53967</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">DAYAMITRA</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.77"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.5798,
+                    -2.85329
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.78",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/daya_mitra.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">8.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">11150784898</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">SUNGAI RENGIT</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.5798</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.85329</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">DAYAMITRA</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.78"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.21667,
+                    -2.83517
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.79",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/mitratel.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">1.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">BTG</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">BETUNG</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.21667</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.83517</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">INFRATEL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.79"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.8865,
+                    -2.35933
+                ]
+            },
+            "properties": {
+                "name": "utl03menarabts_xx.80",
+                "style": {
+                    "iconStyle": {
+                        "color": "ffffffff",
+                        "scale": "32.0",
+                        "heading": "0.0",
+                        "icon": {
+                            "href": "http://simbangda.banyuasinkab.go.id/uploaded/uploads/mitratel.png",
+                            "refreshInterval": "0.0",
+                            "viewRefreshTime": "0.0",
+                            "viewBoundScale": "0.0"
+                        }
+                    },
+                    "labelStyle": {
+                        "color": "00ffffff",
+                        "scale": "0.0"
+                    }
+                },
+                "description": "<h4>utl03menarabts_xx</h4>\n\n<ul class=\"textattributes\">\n  \n  <li><strong><span class=\"atr-name\">NO</span>:</strong> <span class=\"atr-value\">2.0</span></li>\n  <li><strong><span class=\"atr-name\">SITE_ID</span>:</strong> <span class=\"atr-value\">SSG</span></li>\n  <li><strong><span class=\"atr-name\">SITE_NAME</span>:</strong> <span class=\"atr-value\">SUNGSANG</span></li>\n  <li><strong><span class=\"atr-name\">LONGITUDE</span>:</strong> <span class=\"atr-value\">104.8865</span></li>\n  <li><strong><span class=\"atr-name\">LATITUDE</span>:</strong> <span class=\"atr-value\">-2.35933</span></li>\n  <li><strong><span class=\"atr-name\">PEMILIK_TO</span>:</strong> <span class=\"atr-value\">INFRATEL</span></li>\n</ul>\n"
+            },
+            "id": "utl03menarabts_xx.80"
+        }
+    ]
+}

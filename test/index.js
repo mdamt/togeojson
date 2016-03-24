@@ -9,7 +9,7 @@ if (!process.browser) {
 }
 
 test('GPX', function(t) {
-    glob.sync('test/data/*.gpx').forEach(function(file) {
+    glob.sync('test/data/k.gpx').forEach(function(file) {
         gpxFixtureEqual(t, file);
     });
     t.end();
@@ -39,7 +39,7 @@ function gpxFixtureEqual(t, file) {
 }
 
 test('KML', function(t) {
-    glob.sync('test/data/*.kml').forEach(function(file) {
+    glob.sync('test/data/style_embedded.kml').forEach(function(file) {
         kmlFixtureEqual(t, file);
     });
     t.end();
