@@ -27,7 +27,9 @@ var toGeoJSON = (function() {
 
     function populate(parent, node) {
       if (!(node && node.childNodes && node.childNodes.length > 0)) {
-        parent = node.nodeValue;
+        if (node) {
+          parent = node.nodeValue;
+        }
         return;
       }
       var name = node.localName;
